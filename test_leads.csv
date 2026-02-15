@@ -1,6 +1,6 @@
-domain , industry, size
-google.com, it, 20000
-tesla.com, electronics and tech, 300000
-openai.com, ai , 3444999
-stripe.com, - , 394498
-netflix.com , intertainment, 343455
+domain,industry,size
+google.com,it,20000
+tesla.com,electronics and tech,300000
+openai.com,ai,3444999
+stripe.com,-,394498
+netflix.com,intertainment,343455
